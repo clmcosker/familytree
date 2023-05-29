@@ -3,6 +3,7 @@ site_description: My genealogy research
 site_url: https://familytree.caitlinlang.org
 nav:
   - Home: index.md
+ 
 theme:
     name: 'material'
     logo: assets/meta/favicons.png
